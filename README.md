@@ -2,12 +2,6 @@
 
 # Multiclass vs Binary Comparison in Machine Learning
 
-**Bilingual README (English / 中文双语版)**
-
----
-
-## **English Version**
-
 ### 1. Project Overview
 
 This project explores and compares the **performance differences between binary and multiclass classification models** under identical datasets, features, and computational power.

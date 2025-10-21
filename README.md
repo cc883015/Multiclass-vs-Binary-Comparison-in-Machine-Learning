@@ -1,6 +1,6 @@
 <img width="1252" height="479" alt="image" src="https://github.com/user-attachments/assets/e720fc52-835c-491c-8869-ce18fb10c80c" />
-<img width="1040" height="588" alt="image" src="https://github.com/user-attachments/assets/48d600ba-ba9a-4f4f-851e-89c7724deb6e" />
-![Uploading image.png…]()
+<img width="428" height="152" alt="image" src="https://github.com/user-attachments/assets/f6ccbe5d-3b9b-4e7b-b97d-71a99c8f8c7a" />
+
 
 
 # Multiclass vs Binary Comparison in Machine Learning
@@ -290,5 +290,6 @@ unzip -o "Train_Test_datasets.zip" -d data_zip2
 本项目采用 **MIT License** 开源协议，可自由用于学习、研究与非商业用途。
 
 ---
+<img width="1040" height="588" alt="image" src="https://github.com/user-attachments/assets/48d600ba-ba9a-4f4f-851e-89c7724deb6e" />
 
 

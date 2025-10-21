@@ -1,6 +1,11 @@
+<img width="1252" height="479" alt="image" src="https://github.com/user-attachments/assets/e720fc52-835c-491c-8869-ce18fb10c80c" />
+<img width="1040" height="588" alt="image" src="https://github.com/user-attachments/assets/48d600ba-ba9a-4f4f-851e-89c7724deb6e" />
+![Uploading image.png…]()
 
 
 # Multiclass vs Binary Comparison in Machine Learning
+<img width="586" height="113" alt="image" src="https://github.com/user-attachments/assets/cdcd31cb-cfdc-469e-b4d1-56f6428e753c" />
+
 
 ### 1. Project Overview
 
@@ -14,8 +19,20 @@ Two key research questions:
    * Metrics: Accuracy, Macro-F1, Macro-FPR, Latency (ms/sample), Model Size (MB)
 
 2. **Q2:** Can the confusion in multiclass classification be reduced using class weighting, SMOTE, or threshold tuning?
+3. <img width="389" height="503" alt="image" src="https://github.com/user-attachments/assets/cf49f4fc-587a-42c1-8e30-e8fc52533d05" />
+
 
 ---
+<img width="957" height="700" alt="image" src="https://github.com/user-attachments/assets/dfb6f781-5418-4276-854c-7fc02bca6f1d" />
+<img width="957" height="700" alt="image" src="https://github.com/user-attachments/assets/442f1bed-10ed-43f6-854e-12e807dc8589" />
+<img width="943" height="713" alt="image" src="https://github.com/user-attachments/assets/a61d42a6-351c-4c04-9539-335910e79ca6" />
+<img width="956" height="706" alt="image" src="https://github.com/user-attachments/assets/4746cc17-b6dc-44ce-a25a-89f64d53e771" />
+<img width="944" height="677" alt="image" src="https://github.com/user-attachments/assets/8c0f47f8-1ad3-4578-8fac-314cc8c336a2" />
+<img width="949" height="701" alt="image" src="https://github.com/user-attachments/assets/89bc514e-026c-44eb-b831-d7f4d044565c" />
+
+
+
+
 
 ### 2. Directory Structure
 
@@ -98,6 +115,8 @@ Two key research questions:
 * **Class weighting** improved balance but increased misclassification for some classes.
 
 ---
+<img width="186" height="90" alt="image" src="https://github.com/user-attachments/assets/ca68bff6-db66-4cb3-9d2e-ef5c61f7d046" />
+
 
 ### 7. How to Run
 
